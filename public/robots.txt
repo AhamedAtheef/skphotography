@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://skphotography.vercel.app/sitemap.xml
+Sitemap: https://skphotography-rose.vercel.app/sitemap.xml

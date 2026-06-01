@@ -3,23 +3,23 @@
  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
  <url>
-   <loc>https://skphotography.vercel.app/</loc>
+   <loc>https://skphotography-rose.vercel.app/</loc>
  </url>
 
  <url>
-   <loc>https://skphotography.vercel.app/about</loc>
+   <loc>https://skphotography-rose.vercel.app/about</loc>
  </url>
 
  <url>
-   <loc>https://skphotography.vercel.app/services</loc>
+   <loc>https://skphotography-rose.vercel.app/services</loc>
  </url>
 
  <url>
-   <loc>https://skphotography.vercel.app/portfolio</loc>
+   <loc>https://skphotography-rose.vercel.app/gallery</loc>
  </url>
 
  <url>
-   <loc>https://skphotography.vercel.app/contact</loc>
+   <loc>https://skphotography-rose.vercel.app/contact</loc>
  </url>
 
 </urlset>
