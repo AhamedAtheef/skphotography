@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 const services = [
   {
     title: "Wedding",
-    price: "From $3,500",
+    price: "From $3,600",
     image: "/wedding-group-.jpg",
     description:
       "Eternalizing the sacred bonds of union with a cinematic perspective and editorial finesse.",
